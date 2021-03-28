@@ -1,0 +1,64 @@
+.container-fluid {
+    height: 450px;
+
+}
+.row-satu h1 {
+    font-size: 35px;
+    padding: 10px 15px;
+    font-family: "Candara";
+    color: white;
+    letter-spacing: 2px;
+}
+.row-satu {
+    height: 70px;
+    background-color: #EEB2B9;
+}
+.row-header{
+    background-color: #EEB2B9;
+}
+.row-satusatu li {
+    list-style: none;
+    float: left;
+    padding-top: 15px;
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+}
+.btn {
+    background-color: palevioletred;
+    display: inline-block;
+    padding: 1px 6px;
+    color:black;
+}
+.btn:hover {
+    color:white
+}
+
+.row-dua {
+    height: 500px;
+    text-align: center;
+    background-size: cover;
+}
+.row-dua h1 {
+    font-size: 50px;
+    padding-top: 50px;
+    font-family: "Fertigo";
+    letter-spacing: 3px;
+    color: #FF1493;
+    padding-bottom: 10px;
+}
+.row-dua h2 {
+    font-size: 25px;
+    color: #FF1493;
+}
+.btn-dua {
+    background-color:palevioletred ;
+    padding: 7px 5px;
+    color: white;
+    display: inline-block;
+    
+}
+.bg-row {
+    background-image: url('https://cache.marriott.com/marriottassets/marriott/DPSCY/dpscy-wedding-6986-hor-feat.jpg?downsize=1024px:*');
+    background-size: cover;
+}
